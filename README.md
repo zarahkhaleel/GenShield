@@ -6,6 +6,8 @@ GenShield is a GenLayer Builder project demonstrating a working GenLayer Intelli
 
 This project contains a GenLayer smart contract that demonstrates simple on-chain state management using public read and write methods.
 
+The contract was successfully deployed and tested in GenLayer Studio as part of the GenLayer Builder Program.
+
 ## Features
 
 - Built with GenLayer Intelligent Contracts
